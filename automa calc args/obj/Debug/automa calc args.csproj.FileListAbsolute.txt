@@ -1,0 +1,20 @@
+E:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.exe.config
+E:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.exe
+E:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.pdb
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csprojAssemblyReference.cache
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa_calc_args.Form1.resources
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa_calc_args.Properties.Resources.resources
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csproj.GenerateResource.cache
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csproj.CoreCompileInputs.cache
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.exe
+E:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.pdb
+H:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.exe.config
+H:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.exe
+H:\visual studio program\automa calc args\automa calc args\bin\Debug\automa calc args.pdb
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csprojAssemblyReference.cache
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa_calc_args.Form1.resources
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa_calc_args.Properties.Resources.resources
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csproj.GenerateResource.cache
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.csproj.CoreCompileInputs.cache
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.exe
+H:\visual studio program\automa calc args\automa calc args\obj\Debug\automa calc args.pdb
